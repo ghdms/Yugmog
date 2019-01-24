@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SamsungGo_AI_Code_배포", "SamsungGo_AI_Code_배포\SamsungGo_AI_Code_배포.vcxproj", "{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{233379A8-2A90-466D-9C7D-02E87E937086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}.Debug|Win32.Build.0 = Debug|Win32
+		{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}.Debug|x64.ActiveCfg = Debug|Win32
+		{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}.Release|Win32.ActiveCfg = Release|Win32
+		{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}.Release|Win32.Build.0 = Release|Win32
+		{4FC7160B-4D00-4B47-AA8C-5452E1A859B0}.Release|x64.ActiveCfg = Release|Win32
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Debug|Win32.ActiveCfg = Debug|Win32
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Debug|Win32.Build.0 = Debug|Win32
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Debug|x64.ActiveCfg = Debug|x64
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Debug|x64.Build.0 = Debug|x64
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Release|Win32.ActiveCfg = Release|Win32
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Release|Win32.Build.0 = Release|Win32
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Release|x64.ActiveCfg = Release|x64
+		{233379A8-2A90-466D-9C7D-02E87E937086}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12F98A6-43A9-48FA-BFDC-8343E2E5F69F}
+	EndGlobalSection
+EndGlobal
